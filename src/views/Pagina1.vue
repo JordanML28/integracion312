@@ -16,6 +16,7 @@
     <h2>Septimo Commit - Jordan : 07/05/25 12:02</h2> 
     <h2>Octavo Commit - Jordan : 07/05/25 12:38</h2> 
     <h2>Noveno Commit - Jordan : 07/05/25 12:40</h2> 
+    <h2>Decimo Commit - Jordan : 07/05/25 12:45</h2> 
   </div>
 </template>
 
