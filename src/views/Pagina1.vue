@@ -12,6 +12,7 @@
     <h2>Cuarto Commit-Jackelin:06/05/25 13:35</h2>
     <h2>Quinto Commit-Jackelin:06/05/25 13:57</h2>
     <h2>Sexto Commit-Jackelin:06/05/25 16:32</h2>   
+    <h2>Septimo  Commit-Jackelin:06/05/25 16:32</h2>   
   </div>
 </template>
 
